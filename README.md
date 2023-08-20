@@ -1,6 +1,6 @@
 # React Learning basic projects
 
-##A front-end for Rick-and-Morty free API
+## A front-end for Rick-and-Morty free API
 
 [Vercel Link]([https://react-demo-two-nine.vercel.app](https://rick-and-morty-omega-jet.vercel.app/characters)
 
